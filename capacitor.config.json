@@ -1,0 +1,6 @@
+{
+  "appId": "com.aldaramy.halaqa",
+  "appName": "متابعة الحلقات",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
